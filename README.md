@@ -8,8 +8,8 @@ a unique numerical identifier for every device or network that connects to the i
 dividing a network into two or more networks is called subnetting.
 ### CIDR(classless inter domain routing)
 CIDR notation, an IP address is followed by a forward slash "/"
-
-example: 
+### Port
+A port is a virtual point where network connections start and end.
 ### Routing
 Routing involves directing network traffic between different networks.
 ### 
