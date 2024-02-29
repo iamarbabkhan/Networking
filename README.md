@@ -1,3 +1,5 @@
+### OSI(open systems interconnection) model
+![osi](https://yourdevopsmentor.com/wp-content/uploads/2022/08/shutterstock_508948102-1.jpg)
 ### Ip Address
 a unique numerical identifier for every device or network that connects to the internet.
 ![ip](https://bluecatnetworks.com/wp-content/uploads/2020/05/ipv4-1.png)
@@ -12,4 +14,3 @@ CIDR notation, an IP address is followed by a forward slash "/"
 A port is a virtual point where network connections start and end.
 ### Routing
 Routing involves directing network traffic between different networks.
-### 
