@@ -47,3 +47,5 @@ CIDR notation, an IP address is followed by a forward slash "/"
 A port is a virtual point where network connections start and end.
 ### Routing
 Routing involves directing network traffic between different networks.
+### Network Troubleshooting
+ping, traceroute, and nslookup.
