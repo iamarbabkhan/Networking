@@ -45,6 +45,10 @@ dividing a network into two or more networks is called subnetting.
 CIDR notation, an IP address is followed by a forward slash "/"
 ### Port
 A port is a virtual point where network connections start and end.
+1. Port: 80 (HTTP) and 443 (HTTPS)
+2. Port: 22 (SSH)
+3. File transfer Port: 21 (control), 20 (data)
+4. DNS Port: 53
 ### Routing
 Routing involves directing network traffic between different networks.
 ### Network Troubleshooting
